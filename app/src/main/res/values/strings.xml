@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EasyParking</string>
+    <string name="estacionamento">Estacionamento</string>
+    <string name="compra_credito">Compra de Crédito</string>
+    <string name="situacao_atual">Situação Atual</string>
+    <string name="esqueci_a_senha"><u>Esqueci a Senha</u></string>
+    <string name="cadastre_se"><u> Cadastre-se!</u></string>
+    <string name="nao_tem_uma_conta">Não tem uma conta?</string>
+    <string name="situacao_atual_sublinhado"><u>Situação Atual</u></string>
+
+    <string name="text_situacao">Você não Possui Estacionamento Ativo</string>
+    <string name="text_saldo">Utilize o saldo para estacionamento rotativo</string>
+    <string name="text_seu_saldo"><b>Seu Saldo    </b></string>
+    <string name="text_periodo"></string>
+    <string name="text_saldo_valor"><b>R$ 0,0</b></string>
+    <string name="text_credito">Valor do Crédito de Compra</string>
+</resources>

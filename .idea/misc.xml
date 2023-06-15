@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ingsanto/Desktop/FATEC/EasyParking/app/src/main/res/drawable/button_blue.xml" value="0.111" />
+        <entry key="..\:/Users/ingsanto/Desktop/FATEC/EasyParking/app/src/main/res/drawable/button_blue_light.xml" value="0.111" />
+        <entry key="..\:/Users/ingsanto/Desktop/FATEC/EasyParking/app/src/main/res/drawable/button_green.xml" value="0.111" />
+        <entry key="..\:/Users/ingsanto/Desktop/FATEC/EasyParking/app/src/main/res/drawable/button_red_light.xml" value="0.111" />
+        <entry key="..\:/Users/ingsanto/Desktop/FATEC/EasyParking/app/src/main/res/drawable/ic_baseline_computer_36.xml" value="0.111" />
+        <entry key="..\:/Users/ingsanto/Desktop/FATEC/EasyParking/app/src/main/res/drawable/left_botton_circle_blue.xml" value="0.111" />
+        <entry key="..\:/Users/ingsanto/Desktop/FATEC/EasyParking/app/src/main/res/drawable/left_circle.xml" value="0.1" />
+        <entry key="..\:/Users/ingsanto/Desktop/FATEC/EasyParking/app/src/main/res/drawable/left_circle_blue.xml" value="0.111" />
+        <entry key="..\:/Users/ingsanto/Desktop/FATEC/EasyParking/app/src/main/res/drawable/left_circle_gray.xml" value="0.111" />
+        <entry key="..\:/Users/ingsanto/Desktop/FATEC/EasyParking/app/src/main/res/drawable/left_top_circle_blue.xml" value="0.111" />
+        <entry key="..\:/Users/ingsanto/Desktop/FATEC/EasyParking/app/src/main/res/drawable/right_bottom_circle_white.xml" value="0.111" />
+        <entry key="..\:/Users/ingsanto/Desktop/FATEC/EasyParking/app/src/main/res/drawable/right_circle_white.xml" value="0.111" />
+        <entry key="..\:/Users/ingsanto/Desktop/FATEC/EasyParking/app/src/main/res/drawable/right_top_circle_white.xml" value="0.111" />
+        <entry key="..\:/Users/ingsanto/Desktop/FATEC/EasyParking/app/src/main/res/drawable/top_circle_blue.xml" value="0.111" />
+        <entry key="..\:/Users/ingsanto/Desktop/FATEC/EasyParking/app/src/main/res/layout/activity_credit_card.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/ingsanto/Desktop/FATEC/EasyParking/app/src/main/res/layout/activity_home.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/ingsanto/Desktop/FATEC/EasyParking/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ingsanto/Desktop/FATEC/EasyParking/app/src/main/res/layout/toolbar.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/ingsanto/Desktop/FATEC/EasyParking/app/src/main/res/menu/menu_toolbar.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

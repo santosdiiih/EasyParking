@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#D3D3D3</color>
+
+    <color name="colorPrimary">#c3e3fd</color>
+    <color name="colorPrimaryDark">#3c4754</color>
+    <color name="colorAccent">#bbdefb</color>
+
+
+    <!-- SUGGESTION COLORS-->
+    <color name="dark_blue">#1465bb</color>
+    <color name="ligth_blue">#534bae</color>
+    <color name="blue_ligth">#1465bb</color>
+    <color name="blue_ligth_one">#bbdefb</color>
+    <color name="red">#fa0600</color>
+
+    <color name="green">#3DE44A</color>
+</resources>

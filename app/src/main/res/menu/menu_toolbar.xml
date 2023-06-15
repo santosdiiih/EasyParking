@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="@string/situacao_atual"
+        android:id="@+id/menuLoja"
+        />
+    <item android:id="@+id/menuPerfil"
+        android:title="@string/compra_credito"
+        />
+    <item android:id="@+id/menuEstacionamento"
+        android:title="@string/estacionamento"/>
+
+
+</menu>

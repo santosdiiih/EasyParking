@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EasyParking.iml" filepath="$PROJECT_DIR$/.idea/modules/EasyParking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EasyParking.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EasyParking.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EasyParking.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EasyParking.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EasyParking.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EasyParking.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EasyParking.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EasyParking.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
