@@ -9,6 +9,8 @@
     android:orientation="vertical"
     android:background="@color/colorPrimary">
 
+    <include layout="@layout/toolbar"/>
+
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
@@ -17,8 +19,6 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
-
-            <include layout="@layout/toolbar"/>
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -43,6 +43,7 @@
                     android:layout_marginStart="10dp"
                     android:layout_margin="20dp"
                     android:textStyle="bold"
+                    android:textSize="23sp"
                     android:textColor="@color/white"/>
 
             </LinearLayout>
@@ -71,25 +72,31 @@
                     android:layout_marginEnd="20dp">
 
                     <Button
-                        android:layout_width="100dp"
+                        android:id="@+id/button1"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
                         android:layout_height="60dp"
                         android:layout_marginTop="10dp"
                         android:layout_marginRight="10dp"
                         android:text="R$ 10"
                         android:background="@drawable/button_blue_light"/>
                     <Button
-                        android:layout_width="100dp"
+                        android:id="@+id/button2"
+                        android:layout_width="0dp"
                         android:layout_height="60dp"
                         android:layout_marginTop="10dp"
                         android:layout_marginRight="10dp"
+                        android:layout_weight="1"
                         android:text="R$ 20"
                         android:background="@drawable/button_blue_light"/>
 
                     <Button
-                        android:layout_width="100dp"
+                        android:id="@+id/button3"
+                        android:layout_width="0dp"
                         android:layout_height="60dp"
                         android:layout_marginTop="10dp"
                         android:text="R$ 30"
+                        android:layout_weight="1"
                         android:background="@drawable/button_blue_light"/>
                 </LinearLayout>
 
@@ -101,23 +108,30 @@
                     android:layout_marginEnd="20dp">
 
                     <Button
-                        android:layout_width="100dp"
+                        android:id="@+id/button4"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
                         android:layout_height="60dp"
                         android:layout_marginTop="10dp"
                         android:layout_marginRight="10dp"
                         android:text="R$ 40"
                         android:background="@drawable/button_blue_light"/>
+
                     <Button
-                        android:layout_width="100dp"
+                        android:id="@+id/button5"
+                        android:layout_width="0dp"
                         android:layout_height="60dp"
                         android:layout_marginTop="10dp"
+                        android:layout_weight="1"
                         android:layout_marginRight="10dp"
                         android:text="R$ 50"
                         android:background="@drawable/button_blue_light"/>
 
                     <Button
-                        android:layout_width="100dp"
+                        android:id="@+id/button6"
+                        android:layout_width="0dp"
                         android:layout_height="60dp"
+                        android:layout_weight="1"
                         android:layout_marginTop="10dp"
                         android:text="R$ 100"
                         android:background="@drawable/button_blue_light"/>
@@ -132,13 +146,16 @@
                     >
 
                     <Button
+                        android:id="@+id/button7"
                         android:layout_width="100dp"
                         android:layout_height="60dp"
                         android:layout_marginTop="10dp"
                         android:layout_marginRight="10dp"
                         android:text="R$ 200"
                         android:background="@drawable/button_blue_light"/>
+
                     <Button
+                        android:id="@+id/button8"
                         android:layout_width="100dp"
                         android:layout_height="60dp"
                         android:layout_marginTop="10dp"
@@ -147,6 +164,7 @@
 
                 </LinearLayout>
                 <TextView
+                    android:id="@+id/textValorCompra"
                     android:layout_width="130dp"
                     android:layout_height="60dp"
                     android:layout_marginTop="30dp"
@@ -192,6 +210,7 @@
                         android:layout_marginEnd="15dp"
                         android:inputType="number"
                         android:textColor="@color/black"
+                        android:maxLength="11"
                         />
                 </com.google.android.material.textfield.TextInputLayout>
 
@@ -218,6 +237,7 @@
                         android:layout_marginEnd="15dp"
                         android:inputType="number"
                         android:textColor="@color/black"
+                        android:maxLength="16"
                         />
                 </com.google.android.material.textfield.TextInputLayout>
 
@@ -250,6 +270,7 @@
                             android:inputType="number"
                             android:textColor="@color/black"
                             android:layout_weight="1"
+                            android:maxLength="3"
                             />
                     </com.google.android.material.textfield.TextInputLayout>
 
@@ -276,6 +297,7 @@
                             android:layout_marginEnd="15dp"
                             android:inputType="date"
                             android:textColor="@color/black"
+                            android:maxLength="5"
                             />
                     </com.google.android.material.textfield.TextInputLayout>
 
@@ -284,6 +306,7 @@
             </LinearLayout>
 
             <Button
+                android:id="@+id/buttonFinalizar"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:text="Finalizar"

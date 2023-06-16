@@ -15,6 +15,7 @@
     <color name="blue_ligth">#1465bb</color>
     <color name="blue_ligth_one">#bbdefb</color>
     <color name="red">#fa0600</color>
+    <color name="gray_light">#dee5ef</color>
 
     <color name="green">#3DE44A</color>
 </resources>

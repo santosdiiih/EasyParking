@@ -3,9 +3,9 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item android:title="@string/situacao_atual"
-        android:id="@+id/menuLoja"
+        android:id="@+id/menuSituacaoAtual"
         />
-    <item android:id="@+id/menuPerfil"
+    <item android:id="@+id/menuCompraCredito"
         android:title="@string/compra_credito"
         />
     <item android:id="@+id/menuEstacionamento"
